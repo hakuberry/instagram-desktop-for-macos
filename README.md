@@ -19,9 +19,3 @@ Open Instagram-1.0.0-arm64.dmg and install Instagram app
   <instagram-desktop-for-macos repository>/out/make
 ```
 <br/>
-
-## Improvements
-
-Fix how interaction with reels work
-- Reels tab cannot scroll properly
-- Shared reels in DMs cannot be viewed
